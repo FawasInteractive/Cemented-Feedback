@@ -7,6 +7,8 @@ Welcome to the official **FawasVoxels** Issues & Suggestions repository! This sp
 
 This repository serves as the central place for reporting issues and sharing suggestions for the future of FawasVoxels. Please contribute by reporting bugs or suggesting features.
 
+Please add a 👍 thumbs up reaction on issues as an upvote to show priority.
+
 ## 📜 Disclaimer
 By submitting any ideas, suggestions, or feedback in this repository, you agree that Fawas Interactive has 100% permission to use, modify, or ignore any suggestions as I see fit. This includes the right to modify the suggestions to fit the project’s needs or to implement them in any form without requiring further permission from the contributor.
 
