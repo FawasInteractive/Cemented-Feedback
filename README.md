@@ -12,7 +12,7 @@ Please add a 👍 thumbs up reaction on issues as an upvote to show priority.
 ## 📜 Disclaimer
 By submitting any ideas, suggestions, or feedback in this repository, you agree that Fawas Interactive has 100% permission to use, modify, or ignore any suggestions as I see fit. This includes the right to modify the suggestions to fit the project’s needs or to implement them in any form without requiring further permission from the contributor.
 
-## 🐛 How to Report an Issue
+## 🪲 How to Report an Issue
 
 1. **Search Existing Issues**: Before opening a new issue, check if someone has already reported it.
 2. **Open a New Issue**: If it's not listed, [create a new issue](#) with the following details:
@@ -23,7 +23,7 @@ By submitting any ideas, suggestions, or feedback in this repository, you agree 
 
 Please use clear and concise language when describing the issue.
 
-## 💡 How to Suggest a Feature
+## 🏕️ How to Suggest a Feature
 
 1. **Check Existing Suggestions**: See if anyone has already suggested something overly similar.
 2. **Open a New Feature Request**: If your idea is new, [create a feature suggestion](#) and include:
