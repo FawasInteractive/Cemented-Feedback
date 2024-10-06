@@ -1,11 +1,11 @@
 # FawasVoxels Issues & Suggestions
 
-Welcome to the official **FawasVoxels** Issues & Suggestions repository! This space is dedicated to tracking bugs, issues, and suggestions for improving the FawasVoxels project. Your input is valuable, and all contributions will work towards creating a better project.
+Welcome to the official **FawasVoxels** Issues & Suggestions repository! This space is dedicated to tracking bugs, issues, and suggestions for improving the FawasVoxels project.
 
 ## Overview
 **FawasVoxels** is a voxel-based game focused on building, exploration, and resource gathering.
 
-This repository serves as the central place for reporting issues and sharing suggestions for the future of FawasVoxels. Please contribute by reporting bugs or suggesting features.
+This repository serves as the central place for issues and suggestions. Please contribute by reporting bugs or suggesting features.
 
 Please add a 👍 thumbs up reaction on issues as an upvote to show priority.
 
