@@ -25,3 +25,5 @@ If applicable, add screenshots to help explain your problem.
 
 **Additional context**
 Add any other context about the problem here.
+
+The above are not ENTIRELY required, but would help a lot.
