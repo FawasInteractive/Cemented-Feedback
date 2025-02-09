@@ -2,7 +2,7 @@
 name: Code Enhancement Request
 about: Suggest an enhancement for the backend / game code.
 title: ''
-labels: Code Enhancement
+labels: Code Improvement
 assignees: ''
 
 ---
